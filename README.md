@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Johan Ortiz
 
-<!--
-**Fackphenom/Fackphenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnólogo en Redes de Datos apasionado por la programación y el aprendizaje constante.  
+🎯 Explorando el desarrollo backend, análisis de datos y automatización.  
+🧠 Actualmente trabajando con Java (Swing), Python, HTML, CSS y MySQL.  
+🐧 Entusiasta de Arch Linux — me encanta entender cómo funciona todo desde la terminal.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos en curso
+- **Gestión de Cantantes Famosos**: aplicación Java con GUI (Swing) para practicar estructuras y lógica.
+- Configuración de entorno Arch Linux para desarrollo y scripting.
+- Pequeños experimentos en Python y bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- **Lenguajes:** Java, Python, HTML, CSS, SQL  
+- **Bases de datos:** MySQL  
+- **OS:** Arch Linux, Windows  
+- **Otros:** Git, Swing (Java), VS Code
+
+## 📚 Aprendiendo
+- Java avanzado y estructuras de datos  
+- Desarrollo backend y manejo de API REST  
+- Automatización con Bash y Python
+
+## 📫 Contacto
+- 📧 johan.tuemail@example.com *(cambia esto si quieres mostrar tu correo real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhojan-estiben-ortiz-bautista-a494292a4/) *(si tienes)*
+
+---
+
+*"El conocimiento se construye una línea de código a la vez."*
