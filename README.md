@@ -6,9 +6,9 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+## <picture><img src="" width="50px"></picture> **Sobre mí**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture><img align="right" src="" width="250px"></picture>
 
 - 🎓 Tecnólogo en Redes de Datos  
 - 💻 En formación como desarrollador backend y analista de datos  
