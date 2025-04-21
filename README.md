@@ -60,8 +60,8 @@
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanortiz&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanortiz&layout=compact&theme=tokyonight" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhojanortiz&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhojanortiz&layout=compact&theme=tokyonight" width="375"/>
 </div>
 
 <br>
@@ -71,13 +71,13 @@
 <div align='left'>
 <ul>
   <li>
-    <a href="https://linkedin.com/in/tuusuario" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Johan%20Ortiz-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/jhojan-estiben-ortiz-bautista-a494292a4/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Jhojan%20Ortiz-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </li>
   <li>
-    <a href="mailto:tuemail@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-Johan%20Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="jhojanestiben19@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Jhojan%20Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </li>
 </ul>
