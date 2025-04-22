@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src="" width="50px"></picture> **Sobre mí**
+## <picture><img src="" width="50px"></picture> **Sobre mí** 💻
 
 <picture><img align="right" src="" width="250px"></picture>
 
@@ -60,7 +60,7 @@
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fackphenom&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fackphenom&show_icons=true&theme=tokyonight&count_private=true" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fackphenom&layout=compact&theme=tokyonight" width="375"/>
 </div>
 
