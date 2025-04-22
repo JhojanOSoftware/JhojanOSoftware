@@ -8,7 +8,7 @@
 
 ## <picture><img src="" width="50px"></picture> **Sobre mí** 💻
 
-<picture><img align="right" src="" width="250px"></picture>
+<picture><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160"></picture>
 
 - 🎓 Tecnólogo en Redes de Datos  
 - 💻 En formación como desarrollador backend y analista de datos  
