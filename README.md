@@ -10,11 +10,11 @@
 
 <picture><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160"></picture>
 
-- 🎓 Tecnólogo en Redes de Datos  
-- 💻 En formación como desarrollador backend y analista de datos  
-- 🧠 Aprendiendo Java con Swing, Python, HTML, CSS y MySQL  
-- 🐧 Usando Arch Linux para aprender y automatizar  
-- 🚀 Creo proyectos prácticos para aprender haciendo
+- Tecnólogo en Redes de Datos  
+- En formación como desarrollador backend y analista de datos  
+- Aprendiendo Java con Swing, Python, HTML, CSS y MySQL  
+- Usando Arch Linux para aprender y automatizar  
+- Creo proyectos prácticos para aprender haciendo
 
 <br><br>
 
