@@ -73,7 +73,7 @@
 
 <br>
 
-## 🤝 <b>¡Conectemos!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b>¡Contáctame!  </b>
 
 <div align='left'>
 <ul>
@@ -87,6 +87,14 @@
       <img src="https://img.shields.io/badge/Gmail-Jhojan%20Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </li>
+    <li>
+    <a href="jhojanestiben19@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Jhojan%20Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </li>
+</ul>
+</div>
+
 </ul>
 </div>
 
@@ -94,6 +102,6 @@
 
 <div align="center">
 
-## ¡Gracias por visitar mi perfil! 🙌
+## ¡Gracias por visitar mi perfil! 
 
 </div>
