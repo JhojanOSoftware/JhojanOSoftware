@@ -67,8 +67,8 @@
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fackphenom&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fackphenom&layout=compact&theme=tokyonight" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JhojanOSoftware&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhojanOSoftware&layout=compact&theme=tokyonight" width="375"/>
 </div>
 
 <br>
@@ -83,8 +83,8 @@
     </a>
   </li>
   <li>
-    <a href="mailto:jhojanestiben19@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-jhojanestiben19%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="jhojanestiben19@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Jhojan Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </li>
   <li>
