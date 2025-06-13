@@ -10,11 +10,11 @@
 
 <picture><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160"></picture>
 
-- Tecnólogo en Redes de Datos  
-- En formación como desarrollador backend y analista de datos  
-- Aprendiendo Java con Swing, Python, HTML, CSS y MySQL  
-- Usando Arch Linux para aprender y automatizar  
-- Creo proyectos prácticos para aprender haciendo
+- 🎓 Tecnólogo en Redes de Datos  
+- 💻 En formación como desarrollador backend y analista de datos  
+- 🧠 Aprendiendo Java con Swing, Python, HTML, CSS y MySQL  
+- 🐧 Usando Arch Linux para aprender y automatizar  
+- 🚀 Creo proyectos prácticos para aprender haciendo
 
 <br><br>
 
@@ -67,8 +67,8 @@
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhojanOSoftware&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhojanOSoftware&theme=tokyonight" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fackphenom&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fackphenom&layout=compact&theme=tokyonight" width="375"/>
 </div>
 
 <br>
@@ -83,13 +83,13 @@
     </a>
   </li>
   <li>
-    <a href="jhojanestiben19@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-Jhojan%20Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="mailto:jhojanestiben19@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-jhojanestiben19%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </li>
-    <li>
-    <a href="jhojanestiben19@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-Jhojan%20Ortiz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <li>
+    <a href="https://www.youtube.com/@facoxxzyt9344" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-Jhojan%20Ortiz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
   </li>
 </ul>
