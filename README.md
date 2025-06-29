@@ -67,8 +67,8 @@
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhojanOSoftware&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhojanOSoftware&size_weight=0.5&count_weight=0.5)
+  <img src="https://github-readme-stats.vercel.app/api?username=JhojanOSoftware&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhojanOSoftware&langs_count=8&theme=dark&layout=compact&count_private=true" />
 </div>
 
 <br>
