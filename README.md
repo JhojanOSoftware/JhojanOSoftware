@@ -70,7 +70,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhojanOSoftware&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhojanOSoftware&langs_count=8&theme=dracula" />
 </div>
 
 <br>
