@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Jhojan Ortiz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0000FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Apasionado+por+el+código+y+Linux;Estudiante+de+Tecnología+en+Redes;Aprendiendo+Java%2C+Python+y+Back-End;Fan+de+Arch+Linux+y+la+automatización;Construyendo+proyectos+para+aprender"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=90D5FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Apasionado+por+el+código+y+Linux;Estudiante+de+Software;Aprendiendo+NodeJS%2C+;En+Busca+de+Aprendizaje"></a>
 </p>
 
 <br>
