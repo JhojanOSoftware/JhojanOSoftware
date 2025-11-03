@@ -21,15 +21,14 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Tux" width="200">
 </div>
-🧠 Versión creativa para GitHub o portafolio
 
 👨‍💻 Jhojan Ortiz — Software Engineer in Progress 🚀
 💡 “La lógica construye los cimientos, el código da forma a las ideas.”
 
-🌱 En constante aprendizaje de Python, Java, MySQL, HTML, CSS y Linux (Arch)
+🌱 En constante aprendizaje de Python, Javascript, MySQL, HTML, CSS y Linux (Kali, Ubuntu, Debian , Arch)
 🧩 Explorando el mundo de estructuras de datos, algoritmos, teoría de grafos y análisis de datos
-⚙️ Proyectos con POO, Java Swing, recorridos BFS/DFS, árboles, hashmaps, y optimización algorítmica
-🕹️ Desarrollando “DULL”, un videojuego donde la dificultad y la preparación se entrelazan hasta el enfrentamiento final con el superjefe
+⚙️ Proyectos con POO, recorridos BFS/DFS, árboles, hashmaps, optimización algorítmica, y Alpha–beta pruning
+🕹️ Desarrollando distintos proyectos personales en diferentes repositorios como MicroSite, o Incluso Proyectos como Dull
 📊 Interesado en backend, data engineering, ciberseguridad y eficiencia en el desarrollo de software
 <br><br>
 
